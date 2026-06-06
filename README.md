@@ -17,13 +17,8 @@ Analyzed sales performance using Excel Pivot Tables and Tableau dashboards.
 ## Dashboard Screenshots
 
 ### Revenue by Product
-![Revenue by Product](screenshots/usd_price_product.png)
-
 ### Revenue by Region
-![Revenue by Region](screenshots/usd_price_region.png)
-
 ### Orders by Channel
-![Orders by Channel](screenshots/product_order_count_per_channel.png)
 
 ## Files
 - `excel/project.xlsx` → Data cleaning and pivot tables
