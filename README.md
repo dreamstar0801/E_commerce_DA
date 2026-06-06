@@ -71,35 +71,35 @@ Key fields include:
 
 ### Account Creation Method
 
-![Account Creation Method](screenshots/account_create_method.png)
+![Account Creation Method](data_analysis/Tableau_deep_dive/acount_create_method.png)
 
 ### Product Order Count
 
-![Product Order Count](screenshots/product_order_count.png)
+![Product Order Count](data_analysis/Tableau_deep_dive/product_order_count.png)
 
 ### Product Order Count by Marketing Channel
 
-![Product Order Count by Marketing Channel](screenshots/product_order_count_per_channel.png)
+![Product Order Count by Marketing Channel](data_analysis/Tableau_deep_dive/product_order_count_per_channel.png)
 
 ### Average Product Price
 
-![Average Product Price](screenshots/usd_avg_price_product.png)
+![Average Product Price](data_analysis/Tableau_deep_dive/usd_avg_price_product.png)
 
 ### Product Price Distribution
 
-![Product Price Distribution](screenshots/usd_price.png)
+![Product Price Distribution](data_analysis/Tableau_deep_dive/usd_price.png)
 
 ### Revenue by Region
 
-![Revenue by Region](screenshots/usd_price_region.png)
+![Revenue by Region](data_analysis/Tableau_deep_dive/usd_price_region.png)
 
 ### Revenue by Marketing Channel
 
-![Revenue by Marketing Channel](screenshots/usd_price_marketing_channel.png)
+![Revenue by Marketing Channel](data_analysis/Tableau_deep_dive/usd_price_marketing_channel.png)
 
 ### Revenue by Product
 
-![Revenue by Product](screenshots/usd_price_product.png)
+![Revenue by Product](data_analysis/Tableau_deep_dive/usd_price_product.png)
 
 ## Repository Structure
 
@@ -107,7 +107,7 @@ Key fields include:
 data-analysis/
 │
 ├── README.md
-├── screenshots/
+├── Tableau_deep_dive/
 │   ├── account_create_method.png
 │   ├── product_order_count.png
 │   ├── product_order_count_per_channel.png
@@ -117,9 +117,8 @@ data-analysis/
 │   ├── usd_price_marketing_channel.png
 │   └── usd_price_product.png
 │
-├── data/
-├── excel/
-└── tableau/
+├── gamezone-orders-data.xlsx
+└── Strategy_manager_dash.pdf
 ```
 
 ## Future Improvements
